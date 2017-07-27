@@ -1,8 +1,8 @@
 ---
-title: python性能优化之火焰图
+title: Python性能优化之火焰图
 date: 2017-07-26 13:36:25
-categories: python
-tags: [python, 性能优化, 火焰图]
+categories: Python
+tags: [Python, 性能优化, 火焰图]
 ---
 性能优化首先要知道程序的性能瓶颈在哪里，python已经提供了profile工具可以看出哪些函数耗时较长。本文介绍的[火焰图][1]会以图的形式给出程序更直观的函数调用及开销，这里将介绍的是Uber开源的python火焰图工具[pyflame][2]。
 
