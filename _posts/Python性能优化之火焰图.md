@@ -43,6 +43,6 @@ $ flamegraph.pl prof.txt>prof.svg           # 生成图
 
   [1]: http://www.brendangregg.com/flamegraphs.html
   [2]: https://github.com/uber/pyflame
-  [3]: https://coder-zhuyu.github.io/images/prof.svg
+  [3]: https://github.com/coder-zhuyu/images/blob/master/blog/flame.svg
   [4]: http://blog.motitan.com/2017/04/15/python%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7%E4%B9%8Bpyflame
   [5]: https://github.com/brendangregg/FlameGraph
