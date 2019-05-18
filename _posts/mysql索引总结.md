@@ -1,5 +1,5 @@
 ---
-title: mysql数据类型选择
+title: mysql索引总结
 date: 2017-11-02 22:30:40
 categories: mysql 索引
 tags: [mysql]
